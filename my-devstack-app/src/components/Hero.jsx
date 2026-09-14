@@ -25,7 +25,7 @@ function Hero() {
           <div className="mt-8 flex flex-col justify-center gap-4 sm:flex-row md:justify-start">
             <a
               href="#technologies"
-              className="rounded-lg bg-gradient-to-r from-brand-orange via-brand-pink to-brand-violet px-6 py-3 text-sm font-semibold text-white"
+              className="rounded-lg bg-linear-to-r from-brand-orange via-brand-pink to-brand-violet px-6 py-3 text-sm font-semibold text-white"
             >
               Explore Technologies
             </a>
